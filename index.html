@@ -2,19 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Latitude Analysis Dashboard with Attitude</title>
-
+  <title>Latitude Analysis with Attitude</title>
+  <link href="reset.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-  <link href="style.css" rel="stylesheet" >
+
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg color1 color2 ">
     <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">Latitude vs. X</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+      <a class="navbar-brand " href="index.html">Latitude vs. X</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon" id="tog-color" ></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <div class="collapse navbar-collapse bg-dark" id="navbarNav">
         <ul class="navbar-nav navcontent">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -26,7 +27,7 @@
               <a class="dropdown-item" href="vizpages/cloudiness.html">Lat vs. Cloudiness</a>
               <a class="dropdown-item" href="vizpages/wind-speed.html">Lat vs. Wind Speed</a>
             </div>
-            <li class="nav-item">
+            <li class="nav-item ">
               <a class="nav-link" href="comparisons.html">Comparisons</a>
             </li>
             <li class="nav-item">
@@ -43,14 +44,16 @@
     <div class="row">
       <div class="col-md-8">
         <div class="box skyblue">
-          <h1>Summary: Latitude vs. X</h1>
-          <img src="/Resources/assets/images/Fig1.png" class="img-thumbnail w-50 figure float-left">
+          <!-- <h1>Latitude vs. X</h1> -->
+          <h3 class="shrink">Latitude Analysis with Attitude</h3>
+          <img src="/Resources/assets/images/Fig1.png" id="homeimg" class="img-thumbnail w-50 figure" >
           <p>Explanation of Project: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum leo id tellus bibendum, eu sagittis erat euismod. Sed vel commodo nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porta erat ut lacus mollis pulvinar. Pellentesque at ligula ac orci aliquam dapibus eu et orci. Nam at massa eget elit venenatis luctus. Quisque metus justo, blandit id orci lobortis, lacinia ultrices lorem. Nulla facilisi. Maecenas gravida vehicula lorem ac accumsan. Ut purus eros, cursus sed fermentum in, imperdiet ut dui. Etiam aliquet quis ipsum vitae dapibus. Nulla hendrerit metus consequat, varius quam eget, lacinia sem. Suspendisse sem arcu.</p>
+          
         </div>
       </div>
       <div class="col-md-4">
         <div class="box skyblue">
-          <h1>Visualizations</h1>
+          <h3 class="shrink">Visualizations</h3>
           <div class="row subplot">
             <div class="col-sm-6 col-md-6">
               <a href="/vizpages/temperature.html">
