@@ -14,17 +14,37 @@
   background: #667bba;
 }
 
-.red {
+.pink {
   background: #d399cc;
 }
 .figure{
   margin: 0px 12px 0px 12px;   
 }
 .subplot{
-  margin: 6px 12px 6px 12px;
+  text-align:center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 5px;
+
+  /* margin: 6px 12px 6px 12px; */
 }
+a:link{
+  color: white;
+}
+a:visited{
+  color:white;
+}
+
 h1{
   font-weight: 800;
+}
+
+.vizcap{
+  color: white;
+  text-align:center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+
 }
 /* switch h1 to h3 when less than 1000px width */
 /* 767px width rearranges vizualization */
