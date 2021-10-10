@@ -107,6 +107,10 @@ h3{
     color: #667bba;
     font-weight: bolder;
   }
+  .select-thumb{
+    background-color: #f8e9d7;
+    font-weight: bold;
+  }
 /* SMALL */
 @media  screen and (min-width: 991px)  {
   .color1{
