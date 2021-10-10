@@ -1,12 +1,13 @@
-.box {
+.card {
   min-height: 50px;
   padding: 5px;
   margin: 5px;
   color: black;
+  background-color:#f8e9d7;
 }
 
 .skyblue {
-  background:#f8e9d7;
+  
 }
 
 .purple {
@@ -75,15 +76,15 @@ h3{
 }
 /* BIG */
 @media  screen and (max-width: 992px)  {
-  .color1 {
+  .color2 {
     background-color: #667bba;}
     
-  .color1 a{
+  .color2 a{
     text-align:center;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #f8e9d7;}
-  .color1 a:visited{
+  .color2 a:visited{
     text-align:center;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -94,16 +95,16 @@ h3{
   }
 /* SMALL */
 @media  screen and (min-width: 991px)  {
-  .color2{
+  .color1{
     background-color: #f8e9d7;}
     
-  .color2 a{
+  .color1 a{
     text-align:center;
     text-transform: uppercase;
     letter-spacing: 3px;
     color:black;
   }
-  .color2 a:visited{
+  .color1 a:visited{
     text-align:center;
     text-transform: uppercase;
     letter-spacing: 3px;
