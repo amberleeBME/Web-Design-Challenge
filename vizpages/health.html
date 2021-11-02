@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Latitude Analysis with Attitude</title>
+  <title>COVID Costs: Health Expenditures</title>
   <link href="../reset.css" rel="stylesheet">
   <link href="../style.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
@@ -10,9 +10,11 @@
 </head>
 <body>
 
-  <nav class="navbar navbar-expand-lg color1 color2 ">
+  <nav class="navbar navbar-expand-lg bgcolor1 bgcolor2">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html">Latitude vs. X</a>
+      <div class="home-txt1">
+        <a class="navbar-brand" href="../index.html">COVID Costs</a>
+      </div>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item dropdown navbar-dark">
@@ -20,10 +22,10 @@
               Plots
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="temperature.html">Lat vs. Temperature</a></li>
-              <li><a class="dropdown-item" href="humidity.html">Lat vs. Humidity</a></li>
-              <li><a class="dropdown-item" href="cloudiness.html">Lat vs. Cloudiness</a></li>
-              <li><a class="dropdown-item" href="wind-speed.html">Lat vs. Wind Speed</a></li>
+              <li><a class="dropdown-item" href="food.html">Food</a></li>
+              <li><a class="dropdown-item" href="health.html">Health</a></li>
+              <li><a class="dropdown-item" href="housing.html">Housing</a></li>
+              <li><a class="dropdown-item" href="transportation.html">Transportation</a></li>
             </ul>
             <li class="nav-item ">
               <a class="nav-link" href="../comparisons.html">Comparisons</a>
@@ -43,50 +45,42 @@
   <div class="container-fluid">
     <!--Normally these medium columns go full wide on small screen sizes-->
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-lg-8">
         <div class="card">
-          <h4 class="card-header shrink color1 color2">Humidity</h4>
-          <div class="card-body">
-          <img src="../Resources/assets/images/Fig2.png" id="homeimg" class="img-thumbnail w-100 figure" >
-          <p>The scatter plot above shows that most cities have more than 60% humidity.</p>
+          <h4 class="card-header shrink color1 color2">Health Expenditures</h4>
+          <div class="card-body bgcolor3 bgcolor4">
+          <img src="../Resources/assets/images/health.png" id="homeimg" class="img-thumbnail w-100 figure">
+          <p>The scatter plot above shows no observable trends between latitude and cloudiness.</p>
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-lg-4">
         <div class="card">
           <h4 class="card-header shrink color1 color2">Visualizations</h4>
-          <div class="card-body">
-          
+          <div class="card-body bgcolor3 bgcolor4">
           <div class="row subplot">
             <div class="col-sm-6 col-md-6" >
-              
-                <a href="temperature.html">
-                  <img src="../Resources/assets/images/Fig1.png" class="img-thumbnail w-100">
-                  <figcaption>Temperature</figcaption>
+                <a href="food.html">
+                  <img src="../Resources/assets/images/food.png" class="img-thumbnail w-100">
                 </a>
-            
             </div>
             <div class="col-sm-6 col-md-6">
               <div class="select-thumb">
-              <a href="humidity.html">
-                <img src="../Resources/assets/images/Fig2.png" class="img-thumbnail w-100">
-                <figcaption>Humidity</figcaption>
+                <a href="">
+                <img src="../Resources/assets/images/health.png" class="img-thumbnail w-100">
               </a>
               </div>
             </div>
           </div>
-        
         <div class="row subplot">
           <div class="col-sm-6 col-md-6">
-            <a href="cloudiness.html">
-              <img src="../Resources/assets/images/Fig3.png" class="img-thumbnail w-100">
-              <figcaption>Cloudiness</figcaption>
-            </a>          
+              <a href="housing.html">
+              <img src="../Resources/assets/images/housing.png" class="img-thumbnail w-100">
+            </a>
           </div>
           <div class="col-sm-6 col-md-6">
-            <a href="wind-speed.html">
-              <img class="img-thumbnail w-100" src="../Resources/assets/images/Fig4.png">
-              <figcaption>Wind Speed</figcaption>   
+            <a href="transportation.html">
+              <img class="img-thumbnail w-100" src="../Resources/assets/images/transportation.png">
             </a>
           </div>
         </div>
@@ -94,7 +88,6 @@
       </div>
       </div>
       </div>
-      
     </div>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
