@@ -1,0 +1,307 @@
+GeoFips,GeoName,LineCode,Description,Change_in_Spending,Abbreviation
+1000,Alabama,3,Food,11.1,AL
+1000,Alabama,7,Clothing,-4.2,AL
+1000,Alabama,18,Housing,3.3,AL
+1000,Alabama,37,Health,-3.5,AL
+1000,Alabama,53,Transportation,-7.2,AL
+1000,Alabama,95,Education,-4.2,AL
+2000,Alaska,3,Food,6.4,AK
+2000,Alaska,7,Clothing,-12.2,AK
+2000,Alaska,18,Housing,1.5,AK
+2000,Alaska,37,Health,-8.6,AK
+2000,Alaska,53,Transportation,-12.2,AK
+2000,Alaska,95,Education,-3.4,AK
+4000,Arizona,3,Food,12.9,AZ
+4000,Arizona,7,Clothing,-4.7,AZ
+4000,Arizona,18,Housing,4.5,AZ
+4000,Arizona,37,Health,-1.1,AZ
+4000,Arizona,53,Transportation,-11.5,AZ
+4000,Arizona,95,Education,-4.4,AZ
+5000,Arkansas,3,Food,12.6,AR
+5000,Arkansas,7,Clothing,-0.4,AR
+5000,Arkansas,18,Housing,1.6,AR
+5000,Arkansas,37,Health,-3,AR
+5000,Arkansas,53,Transportation,-7.2,AR
+5000,Arkansas,95,Education,-3.3,AR
+6000,California,3,Food,11.8,CA
+6000,California,7,Clothing,-11.2,CA
+6000,California,18,Housing,4.5,CA
+6000,California,37,Health,-3.8,CA
+6000,California,53,Transportation,-19.7,CA
+6000,California,95,Education,-5.7,CA
+8000,Colorado,3,Food,12,CO
+8000,Colorado,7,Clothing,-6,CO
+8000,Colorado,18,Housing,5.3,CO
+8000,Colorado,37,Health,-2.5,CO
+8000,Colorado,53,Transportation,-12,CO
+8000,Colorado,95,Education,-4.5,CO
+9000,Connecticut,3,Food,10.2,CT
+9000,Connecticut,7,Clothing,-11.4,CT
+9000,Connecticut,18,Housing,2.4,CT
+9000,Connecticut,37,Health,-4.1,CT
+9000,Connecticut,53,Transportation,-21.6,CT
+9000,Connecticut,95,Education,-4.4,CT
+10000,Delaware,3,Food,12.8,DE
+10000,Delaware,7,Clothing,-11.5,DE
+10000,Delaware,18,Housing,4.9,DE
+10000,Delaware,37,Health,-5.5,DE
+10000,Delaware,53,Transportation,-12.7,DE
+10000,Delaware,95,Education,-5.3,DE
+11000,"Washington, D.C.",3,Food,6.5,DC
+11000,"Washington, D.C.",7,Clothing,-19,DC
+11000,"Washington, D.C.",18,Housing,4.8,DC
+11000,"Washington, D.C.",37,Health,-6.1,DC
+11000,"Washington, D.C.",53,Transportation,-21.1,DC
+11000,"Washington, D.C.",95,Education,-0.6,DC
+12000,Florida,3,Food,10.8,FL
+12000,Florida,7,Clothing,-9.1,FL
+12000,Florida,18,Housing,4.7,FL
+12000,Florida,37,Health,-3.1,FL
+12000,Florida,53,Transportation,-13.9,FL
+12000,Florida,95,Education,-6.4,FL
+13000,Georgia,3,Food,11.9,GA
+13000,Georgia,7,Clothing,-7.4,GA
+13000,Georgia,18,Housing,4.4,GA
+13000,Georgia,37,Health,-4.3,GA
+13000,Georgia,53,Transportation,-13.2,GA
+13000,Georgia,95,Education,-5.3,GA
+15000,Hawaii,3,Food,10.9,HI
+15000,Hawaii,7,Clothing,-26.8,HI
+15000,Hawaii,18,Housing,5,HI
+15000,Hawaii,37,Health,-3.3,HI
+15000,Hawaii,53,Transportation,-24.2,HI
+15000,Hawaii,95,Education,-6,HI
+16000,Idaho,3,Food,10.5,ID
+16000,Idaho,7,Clothing,-1.9,ID
+16000,Idaho,18,Housing,6.4,ID
+16000,Idaho,37,Health,-4,ID
+16000,Idaho,53,Transportation,-6.5,ID
+16000,Idaho,95,Education,-4.2,ID
+17000,Illinois,3,Food,10.2,IL
+17000,Illinois,7,Clothing,-8.5,IL
+17000,Illinois,18,Housing,1.7,IL
+17000,Illinois,37,Health,-4.3,IL
+17000,Illinois,53,Transportation,-18.6,IL
+17000,Illinois,95,Education,-4.4,IL
+18000,Indiana,3,Food,10,IN
+18000,Indiana,7,Clothing,-4.3,IN
+18000,Indiana,18,Housing,3,IN
+18000,Indiana,37,Health,-3.5,IN
+18000,Indiana,53,Transportation,-10.2,IN
+18000,Indiana,95,Education,-3.1,IN
+19000,Iowa,3,Food,10.3,IA
+19000,Iowa,7,Clothing,-6.8,IA
+19000,Iowa,18,Housing,2.4,IA
+19000,Iowa,37,Health,-5.7,IA
+19000,Iowa,53,Transportation,-8,IA
+19000,Iowa,95,Education,-3.7,IA
+20000,Kansas,3,Food,11.2,KS
+20000,Kansas,7,Clothing,-6,KS
+20000,Kansas,18,Housing,2.4,KS
+20000,Kansas,37,Health,-2.9,KS
+20000,Kansas,53,Transportation,-11.5,KS
+20000,Kansas,95,Education,-4.4,KS
+21000,Kentucky,3,Food,9.9,KY
+21000,Kentucky,7,Clothing,-3.9,KY
+21000,Kentucky,18,Housing,3.2,KY
+21000,Kentucky,37,Health,-3.2,KY
+21000,Kentucky,53,Transportation,-10.5,KY
+21000,Kentucky,95,Education,-3.7,KY
+22000,Louisiana,3,Food,9.8,LA
+22000,Louisiana,7,Clothing,-6.6,LA
+22000,Louisiana,18,Housing,3.2,LA
+22000,Louisiana,37,Health,-2.5,LA
+22000,Louisiana,53,Transportation,-10.3,LA
+22000,Louisiana,95,Education,-5.5,LA
+23000,Maine,3,Food,12.5,ME
+23000,Maine,7,Clothing,-10.7,ME
+23000,Maine,18,Housing,3.8,ME
+23000,Maine,37,Health,-3.1,ME
+23000,Maine,53,Transportation,-11.4,ME
+23000,Maine,95,Education,-3.7,ME
+24000,Maryland,3,Food,9.7,MD
+24000,Maryland,7,Clothing,-13.2,MD
+24000,Maryland,18,Housing,2.4,MD
+24000,Maryland,37,Health,-4.6,MD
+24000,Maryland,53,Transportation,-15.8,MD
+24000,Maryland,95,Education,-6.6,MD
+25000,Massachusetts,3,Food,8.8,MA
+25000,Massachusetts,7,Clothing,-15.9,MA
+25000,Massachusetts,18,Housing,4.2,MA
+25000,Massachusetts,37,Health,-5.9,MA
+25000,Massachusetts,53,Transportation,-23.9,MA
+25000,Massachusetts,95,Education,-5.3,MA
+26000,Michigan,3,Food,10.6,MI
+26000,Michigan,7,Clothing,-7.7,MI
+26000,Michigan,18,Housing,2.3,MI
+26000,Michigan,37,Health,-5.7,MI
+26000,Michigan,53,Transportation,-14.2,MI
+26000,Michigan,95,Education,-4.4,MI
+27000,Minnesota,3,Food,8.9,MN
+27000,Minnesota,7,Clothing,-7.9,MN
+27000,Minnesota,18,Housing,3.4,MN
+27000,Minnesota,37,Health,-5.9,MN
+27000,Minnesota,53,Transportation,-11.9,MN
+27000,Minnesota,95,Education,-4.6,MN
+28000,Mississippi,3,Food,11.3,MS
+28000,Mississippi,7,Clothing,-2.8,MS
+28000,Mississippi,18,Housing,1.1,MS
+28000,Mississippi,37,Health,-3.3,MS
+28000,Mississippi,53,Transportation,-6.8,MS
+28000,Mississippi,95,Education,-3.5,MS
+29000,Missouri,3,Food,10.2,MO
+29000,Missouri,7,Clothing,-3.8,MO
+29000,Missouri,18,Housing,2.6,MO
+29000,Missouri,37,Health,-4.7,MO
+29000,Missouri,53,Transportation,-9.6,MO
+29000,Missouri,95,Education,-4,MO
+30000,Montana,3,Food,9.6,MT
+30000,Montana,7,Clothing,-0.5,MT
+30000,Montana,18,Housing,5.4,MT
+30000,Montana,37,Health,-1.8,MT
+30000,Montana,53,Transportation,-7,MT
+30000,Montana,95,Education,-4.2,MT
+31000,Nebraska,3,Food,10.8,NE
+31000,Nebraska,7,Clothing,-4.2,NE
+31000,Nebraska,18,Housing,3.4,NE
+31000,Nebraska,37,Health,-3.4,NE
+31000,Nebraska,53,Transportation,-8.6,NE
+31000,Nebraska,95,Education,-4,NE
+32000,Nevada,3,Food,11.7,NV
+32000,Nevada,7,Clothing,-12,NV
+32000,Nevada,18,Housing,6.8,NV
+32000,Nevada,37,Health,-3,NV
+32000,Nevada,53,Transportation,-14.6,NV
+32000,Nevada,95,Education,-6.8,NV
+33000,New Hampshire,3,Food,11.5,NH
+33000,New Hampshire,7,Clothing,-10.2,NH
+33000,New Hampshire,18,Housing,3.2,NH
+33000,New Hampshire,37,Health,-4.9,NH
+33000,New Hampshire,53,Transportation,-9.7,NH
+33000,New Hampshire,95,Education,-4.6,NH
+34000,New Jersey,3,Food,10,NJ
+34000,New Jersey,7,Clothing,-18.9,NJ
+34000,New Jersey,18,Housing,2.8,NJ
+34000,New Jersey,37,Health,-2.6,NJ
+34000,New Jersey,53,Transportation,-19.8,NJ
+34000,New Jersey,95,Education,-4.1,NJ
+35000,New Mexico,3,Food,11.1,NM
+35000,New Mexico,7,Clothing,-8.4,NM
+35000,New Mexico,18,Housing,3.1,NM
+35000,New Mexico,37,Health,-3.7,NM
+35000,New Mexico,53,Transportation,-13.3,NM
+35000,New Mexico,95,Education,-4.1,NM
+36000,New York,3,Food,9.6,NY
+36000,New York,7,Clothing,-17.3,NY
+36000,New York,18,Housing,3.2,NY
+36000,New York,37,Health,-3.2,NY
+36000,New York,53,Transportation,-26,NY
+36000,New York,95,Education,-6.6,NY
+37000,North Carolina,3,Food,15.2,NC
+37000,North Carolina,7,Clothing,-5.5,NC
+37000,North Carolina,18,Housing,3.7,NC
+37000,North Carolina,37,Health,-3.6,NC
+37000,North Carolina,53,Transportation,-9.9,NC
+37000,North Carolina,95,Education,-5.2,NC
+38000,North Dakota,3,Food,7.9,ND
+38000,North Dakota,7,Clothing,-5.5,ND
+38000,North Dakota,18,Housing,-0.7,ND
+38000,North Dakota,37,Health,-4.9,ND
+38000,North Dakota,53,Transportation,-8.1,ND
+38000,North Dakota,95,Education,-1.7,ND
+39000,Ohio,3,Food,9.8,OH
+39000,Ohio,7,Clothing,-5.9,OH
+39000,Ohio,18,Housing,1.8,OH
+39000,Ohio,37,Health,-4.5,OH
+39000,Ohio,53,Transportation,-11.2,OH
+39000,Ohio,95,Education,-4.3,OH
+40000,Oklahoma,3,Food,11.5,OK
+40000,Oklahoma,7,Clothing,-2.5,OK
+40000,Oklahoma,18,Housing,1.9,OK
+40000,Oklahoma,37,Health,-4.8,OK
+40000,Oklahoma,53,Transportation,-7.5,OK
+40000,Oklahoma,95,Education,-2.8,OK
+41000,Oregon,3,Food,13.1,OR
+41000,Oregon,7,Clothing,-4,OR
+41000,Oregon,18,Housing,5.1,OR
+41000,Oregon,37,Health,-4.3,OR
+41000,Oregon,53,Transportation,-15.3,OR
+41000,Oregon,95,Education,-5.6,OR
+42000,Pennsylvania,3,Food,8.6,PA
+42000,Pennsylvania,7,Clothing,-10.7,PA
+42000,Pennsylvania,18,Housing,2.2,PA
+42000,Pennsylvania,37,Health,-4,PA
+42000,Pennsylvania,53,Transportation,-15.7,PA
+42000,Pennsylvania,95,Education,-4.2,PA
+44000,Rhode Island,3,Food,10,RI
+44000,Rhode Island,7,Clothing,-9.7,RI
+44000,Rhode Island,18,Housing,3.3,RI
+44000,Rhode Island,37,Health,-6.2,RI
+44000,Rhode Island,53,Transportation,-17.3,RI
+44000,Rhode Island,95,Education,-4.1,RI
+45000,South Carolina,3,Food,13.1,SC
+45000,South Carolina,7,Clothing,-3.8,SC
+45000,South Carolina,18,Housing,4.1,SC
+45000,South Carolina,37,Health,-3.1,SC
+45000,South Carolina,53,Transportation,-8,SC
+45000,South Carolina,95,Education,-3.2,SC
+46000,South Dakota,3,Food,10.8,SD
+46000,South Dakota,7,Clothing,-1.3,SD
+46000,South Dakota,18,Housing,1.9,SD
+46000,South Dakota,37,Health,-4.5,SD
+46000,South Dakota,53,Transportation,-3.7,SD
+46000,South Dakota,95,Education,-3,SD
+47000,Tennessee,3,Food,13,TN
+47000,Tennessee,7,Clothing,-2.7,TN
+47000,Tennessee,18,Housing,4.3,TN
+47000,Tennessee,37,Health,-1.6,TN
+47000,Tennessee,53,Transportation,-10.2,TN
+47000,Tennessee,95,Education,-4.8,TN
+48000,Texas,3,Food,14.2,TX
+48000,Texas,7,Clothing,-6.3,TX
+48000,Texas,18,Housing,4,TX
+48000,Texas,37,Health,-3.7,TX
+48000,Texas,53,Transportation,-10,TX
+48000,Texas,95,Education,-5,TX
+49000,Utah,3,Food,11.2,UT
+49000,Utah,7,Clothing,-4,UT
+49000,Utah,18,Housing,5.8,UT
+49000,Utah,37,Health,-3.2,UT
+49000,Utah,53,Transportation,-6.5,UT
+49000,Utah,95,Education,-1,UT
+50000,Vermont,3,Food,9.4,VT
+50000,Vermont,7,Clothing,-10.6,VT
+50000,Vermont,18,Housing,3.4,VT
+50000,Vermont,37,Health,-3.8,VT
+50000,Vermont,53,Transportation,-14.6,VT
+50000,Vermont,95,Education,-4,VT
+51000,Virginia,3,Food,11.2,VA
+51000,Virginia,7,Clothing,-7.5,VA
+51000,Virginia,18,Housing,2.7,VA
+51000,Virginia,37,Health,-4.7,VA
+51000,Virginia,53,Transportation,-14.7,VA
+51000,Virginia,95,Education,-4.1,VA
+53000,Washington,3,Food,14.6,WA
+53000,Washington,7,Clothing,-7.4,WA
+53000,Washington,18,Housing,5.8,WA
+53000,Washington,37,Health,-6,WA
+53000,Washington,53,Transportation,-20.7,WA
+53000,Washington,95,Education,-6.5,WA
+54000,West Virginia,3,Food,10,WV
+54000,West Virginia,7,Clothing,-4.7,WV
+54000,West Virginia,18,Housing,0.6,WV
+54000,West Virginia,37,Health,-3.9,WV
+54000,West Virginia,53,Transportation,-11.3,WV
+54000,West Virginia,95,Education,-4.1,WV
+55000,Wisconsin,3,Food,8.6,WI
+55000,Wisconsin,7,Clothing,-6.3,WI
+55000,Wisconsin,18,Housing,2.3,WI
+55000,Wisconsin,37,Health,-5,WI
+55000,Wisconsin,53,Transportation,-10,WI
+55000,Wisconsin,95,Education,-5.7,WI
+56000,Wyoming,3,Food,10.7,WY
+56000,Wyoming,7,Clothing,-1.6,WY
+56000,Wyoming,18,Housing,0.5,WY
+56000,Wyoming,37,Health,-4.3,WY
+56000,Wyoming,53,Transportation,-8.7,WY
+56000,Wyoming,95,Education,-2.6,WY
