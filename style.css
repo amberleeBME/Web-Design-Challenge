@@ -6,7 +6,6 @@
   background-color:#f8e9d7;
 }
 
-
 .navbar-toggler-icon{
   color:wheat;
 }
@@ -15,7 +14,7 @@
   background: #667bba;
 }
 
-.pink {
+.sand {
   background: #f8e9d7;
   color: #667bba;
 }
@@ -31,11 +30,9 @@
 .subplot{
   text-align:center;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 0px;
   padding: 5px;
   display:inline;
-
-  /* margin: 6px 12px 6px 12px; */
 }
 .subplot a:link{
   color: black;
@@ -54,25 +51,30 @@ h3{
   text-transform: uppercase;
   letter-spacing: 3px;
 }
-
-.vizcap{
-  color: black;
-  text-align:center;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-
+#tog-color{
+  background-color: #f8e9d7;
 }
-
-@media  screen and (max-width: 1000px) and (min-width: 767px){
-  figcaption{
-    font-size:65%;
-  }
-
-  .shrink{
-    font-size:125%;
-  }
+.navbar-nav{
+  position: relative;
 }
-/* BIG */
+.dropdown-menu a:visited{
+  color:black;
+}
+.dropdown-menu a{
+  text-align: left;
+  color:black;
+  width: max-content;
+}
+h5{
+  text-align: center;
+  color: #667bba;
+  font-weight: bolder;
+}
+.select-thumb{
+  background-color: #f8e9d7;
+  font-weight: bold;
+}
+/* SMALL */
 @media  screen and (max-width: 992px)  {
   .color2 {
     background-color: #667bba;}
@@ -87,35 +89,21 @@ h3{
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #f8e9d7;}
-    }
-  #tog-color{
-    background-color: #f8e9d7;
+}
+/* MEDIUM */
+@media  screen and (max-width: 1130px) and (min-width: 992px){
+  figcaption{
+    font-size:80%;
   }
-  .navbar-nav{
-    position: relative;
+  .shrink{
+    font-size:125%;
   }
-  .dropdown-menu a:visited{
-    color:black;
-  }
-  .dropdown-menu a{
-    text-align: left;
-    color:black;
-    width: max-content;
-  }
-  h5{
-    text-align: center;
-    color: #667bba;
-    font-weight: bolder;
-  }
-  .select-thumb{
-    background-color: #f8e9d7;
-    font-weight: bold;
-  }
-/* SMALL */
+}
+/* LARGE */
 @media  screen and (min-width: 991px)  {
   .color1{
-    background-color: #f8e9d7;}
-    
+    background-color: #f8e9d7;
+  }  
   .color1 a{
     text-align:center;
     text-transform: uppercase;
@@ -133,11 +121,9 @@ h3{
     right: 0px;
   }
 }
-/* switch h1 to h3 when less than 1000px width */
-/* 767px width rearranges vizualization */
-/* 575px width rearranges subplots */
-/* .color1 {color: #156795;}
-.color2 {color: #667bba;}
-.color3 {color: #d399cc;}
-.color4 {color: #f8c9d4;}
-.color5 {color: #f8e9d7;} */
+
+/* .color1 {color: #156795;} */
+/* .color2 {color: #667bba;} */
+/* .color3 {color: #d399cc;} */
+/* .color4 {color: #f8c9d4;} */
+/* .color5 {color: #f8e9d7;} */
