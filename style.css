@@ -14,6 +14,12 @@ h4{
   vertical-align: middle;
   float: left;
 }
+#vizimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 75%;
+}
 .figure{
   margin: 0px 12px 0px 12px;   
 }
@@ -54,17 +60,11 @@ h5{
   text-align: center;
   color: #667bba;
   font-weight: bolder;
+  padding-top: 3%;
 }
 .select-thumb img{
   /* background-color: #F8C9D4; */
   border:3px solid #156795;
-  border-radius: 10px;
-  padding: 2px;
-  font-weight: bold;
-  text-decoration: none;
-}
-a img{
-  border:3px solid #F8E9D7;
   border-radius: 10px;
   padding: 2px;
   font-weight: bold;
@@ -156,11 +156,6 @@ a img{
   .dropdown-menu a:visited{
     color:#d399cc;
   }
-  /* .bgcolor4{
-    text-align:center;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: #F8E9D7;}*/
 }
 
 
