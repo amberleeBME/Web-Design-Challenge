@@ -5,7 +5,7 @@ The purpose of this project was to analyze how spending patterns changed in the 
 After cleaning the data, I used Plotly to create choropleth maps to visualize changes in various expenditures across the country. Expenditures we looked explored include: food, health, housing, and transportation. The site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any significant changes witnessed.
 
 ## Link to Website
-[COVID Costs](https://amberleebme.github.io/Web-Design-Challenge/)
+[COVID Costs](https://amberleebme.github.io/covid-costs/)
 ## Screenshots
 
 ![Food Expenditures](/Resources/assets/images/food.png)
